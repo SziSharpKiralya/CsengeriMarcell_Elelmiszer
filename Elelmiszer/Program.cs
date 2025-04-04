@@ -21,6 +21,7 @@
 
 			etterem[3].IsItDairyFree = true;
 			etterem[6].IsItDairyFree = true;
+			etterem[1].IsItDairyFree = true;
 
 			Console.WriteLine(SumCalories());
             foreach (var etel in DairyFree())
